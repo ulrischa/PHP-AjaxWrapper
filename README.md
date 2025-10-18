@@ -31,14 +31,6 @@ It’s designed for **any code style** — closures, class methods, static calls
 
 Just copy [`AjaxWrapper.php`](./AjaxWrapper.php) into your project.
 
-If you use Composer (optional):
-
-```bash
-composer require yourname/ajax-wrapper
-````
-
-*(You can later publish it on Packagist if you wish.)*
-
 ---
 
 ### 🧠 Basic concept
