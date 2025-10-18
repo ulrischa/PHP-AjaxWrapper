@@ -221,17 +221,6 @@ $renderGet = [$svc,'form'];
 
 ---
 
-### Minimal CSS
-
-```css
-body{font-family:system-ui;margin:2rem}
-.hide{display:none}
-.success{padding:.75rem;background:#e8f6ec;border:1px solid #b9e2c5;border-radius:10px;margin-top:.75rem}
-.error{color:#b00020;font-size:.9rem}
-```
-
----
-
 ### Behavior summary
 
 | Context            | Behavior                                            |
